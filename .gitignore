@@ -1,0 +1,8 @@
+
+\.idea/
+
+hmp\.parquet/
+
+out/
+
+out_part/
